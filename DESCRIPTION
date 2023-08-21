@@ -1,8 +1,8 @@
 Package: statisfactory
 Type: Package
 Title: Statistical and Geometrical Tools
-Version: 1.0.1
-Date: 2022-03-02
+Version: 1.0.4
+Date: 2023-08-21
 Authors@R: 
 	c(
 		person(
@@ -22,15 +22,15 @@ Description: A collection of statistical and geometrical tools
 	histograms with overlapping bins, a function for making all
 	possible formulae within a set of constraints, amongst others.
 Depends:
-Imports: omnibus, rlist
+Imports: omnibus
 Suggests:
 License: GPL (>= 3)
 LazyLoad: yes
 URL: https://github.com/adamlilith/statisfactory
 Encoding: UTF-8
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2022-03-03 02:50:48 UTC; ASmith
+Packaged: 2023-08-21 18:00:59 UTC; ASmith
 Author: Adam B. Smith [aut, cre] (<https://orcid.org/0000-0002-6420-1659>)
 Repository: CRAN
-Date/Publication: 2022-03-07 20:30:02 UTC
+Date/Publication: 2023-08-21 22:00:03 UTC
